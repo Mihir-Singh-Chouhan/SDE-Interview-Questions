@@ -1,0 +1,94 @@
+# Blinkit SDE-1 Interview Questions
+
+## Round 1 — Problem Solving + CS Fundamentals
+
+### DSA / Problem Solving
+
+1. **Reverse a Linked List**
+   Given the head of a singly linked list, reverse the list and return its new head.
+
+2. **Longest Substring Without Repeating Characters**
+   Given a string, find the length of the longest substring without repeating characters.
+
+3. **Maximum Alternating Sum After Right-Shifting a Subarray**
+   Find the maximum alternating sum of an array after applying a right-shift operation on an arbitrary subarray.
+
+### Core CS / Backend
+
+4. **MCP and Its Use Cases**
+   What is MCP (Model Context Protocol), and what are its practical use cases?
+
+5. **SQL vs NoSQL Trade-offs**
+   What are the differences between SQL and NoSQL databases? What are the trade-offs, and when would you choose one over the other?
+
+6. **HashMap Internal Working**
+   How does a `HashMap` work internally? Explain hashing, bucket array indexing, and the time complexity of standard operations.
+
+7. **Collision Handling in HashMap**
+   How are hash collisions handled in a Java `HashMap`?
+
+8. **Redis and Its Use Cases**
+   What is Redis? What data structures does it provide, and what are its common production use cases such as caching, rate limiting, and session storage?
+
+---
+
+# Round 2 — System Design + Core Engineering
+
+9. **Design a Promo Code System for Blinkit**
+   Design a promo code system where promotions can depend on:
+
+   * User segments
+   * Region
+   * Checkout amount
+   * Validity period
+   * Budget cap
+
+10. **Thread Management and Concurrency**
+    How do threads work at the OS and application level? Explain context switching, thread pools, and concurrency management.
+
+11. **Database Indexing Internals**
+    How do database indexes work internally?
+
+12. **Redis Sentinel Architecture**
+    Explain the architecture of Redis Sentinel, focusing on:
+
+    * High availability
+    * Monitoring
+    * Notification
+    * Automated failover
+
+13. **Redis Cluster Architecture**
+    How does Redis Cluster provide horizontal scalability through:
+
+    * Hash slots
+    * Sharding
+    * Node coordination
+    * Failover
+
+---
+
+# Round 3 — Cultural Fit
+
+14. **Cultural Fit Questions**
+    What questions were asked during the cultural-fit round?
+
+---
+
+## 📌 Complete Question List
+
+|  # | Round   | Question                                                |
+| -: | ------- | ------------------------------------------------------- |
+|  1 | Round 1 | Reverse a Linked List                                   |
+|  2 | Round 1 | Longest Substring Without Repeating Characters          |
+|  3 | Round 1 | Maximum Alternating Sum After Right-Shifting a Subarray |
+|  4 | Round 1 | MCP and Its Use Cases                                   |
+|  5 | Round 1 | SQL vs NoSQL Trade-offs                                 |
+|  6 | Round 1 | HashMap Internal Working                                |
+|  7 | Round 1 | Collision Handling in HashMap                           |
+|  8 | Round 1 | Redis and Its Use Cases                                 |
+|  9 | Round 2 | Design a Promo Code System for Blinkit                  |
+| 10 | Round 2 | Thread Management and Concurrency                       |
+| 11 | Round 2 | Database Indexing Internals                             |
+| 12 | Round 2 | Redis Sentinel Architecture                             |
+| 13 | Round 2 | Redis Cluster Architecture                              |
+| 14 | Round 3 | Cultural Fit Questions                                  |
