@@ -1,0 +1,60 @@
+# Accenture Interview Questions
+
+## Maven and Build
+
+1. What is a Maven build?
+2. What does `mvn clean install` do?
+3. How do you push code to production?
+4. What is code coverage and line coverage?
+5. How do you improve code coverage when the build fails?
+
+## Testing
+
+6. How do you verify a method is called twice in Mockito?
+7. In which situations do you use PowerMock?
+
+## Core Java
+
+8. What is the difference between the `final` keyword and a final variable?
+9. What is Garbage Collection in Java?
+10. How do you debug and fix `OutOfMemoryError`?
+11. What are atomic variables in Java?
+12. What is the `volatile` keyword?
+13. What is the difference between `volatile` and `synchronized`?
+14. How do you avoid performance issues caused by synchronization?
+15. What is a `BlockingQueue` and where do you use it in real applications?
+16. What changes did you make when migrating from Java 7 to Java 8?
+17. What are different ways to ensure thread safety?
+18. What is `ThreadLocal` and where is it used?
+
+## Collections
+
+19. What is the difference between `HashMap` and `Hashtable`?
+20. Why does `Hashtable` not allow null keys or values?
+21. What is the load factor in `HashMap`?
+22. What does the default load factor `0.75` mean?
+
+## SQL
+
+23. What is the difference between `UNION` and `UNION ALL`?
+24. What is the difference between `LEFT JOIN` and `RIGHT JOIN`?
+25. When do you use `LEFT JOIN`?
+26. How do you find records in one table that have no relationship with another?
+27. How do you handle `NULL` values and conditional mapping in SQL?
+28. How do you map values like `A` to `Apple`, `B` to `Banana` in SQL?
+29. How do you remove duplicates in SQL?
+
+## Hibernate
+
+30. How do you define relationships between tables in Hibernate?
+31. What are the types of relationships in Hibernate?
+
+## Spring
+
+32. What is the difference between constructor injection and setter injection?
+33. What happens if you do not use `@Autowired` in Spring?
+34. How do you perform constructor injection without `@Autowired`?
+
+## DSA
+
+35. Find the longest substring without repeating characters in Java?
